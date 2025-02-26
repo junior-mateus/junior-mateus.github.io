@@ -1,0 +1,134 @@
+baseurl = "http://www.juniormateus.com"
+title = "junior mateus"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+# shortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+    author = "Junior Mateus"
+    info = "Learner | Hacker."
+    description = "Sharing my journey in cybersecurity, seeking knowledge, connecting with people, having fun."
+    # description = "Sharing my journey in cybersecurity, learning, connecting, having fun."
+    keywords = "cybersecurity, secure coding, ethical hacking, C programming, Go programming, Linux, web security, penetration testing, threat analysis, red teaming"
+    avatarurl = "avatar2.png"
+    #gravatar = "john.doe@example.com"
+
+    faviconSVG = "/img/favicon.svg"
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    since = 2025
+
+    enableTwemoji = true
+
+    colorScheme = "auto"
+    hidecolorschemetoggle = false
+
+    showPostsOnHome = true
+    # customCSS = ["css/custom.css"]
+    # customSCSS = ["scss/custom.scss"]
+    # customJS = ["js/custom.js"]
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+    author = "authors"
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fa-brands fa-github fa-2x"
+    weight = 5
+    url = "https://github.com/junior-mateus"
+[[params.social]]
+    name = "Instagram"
+    icon = "fa-brands fa-instagram fa-2x"
+    weight = 4
+    url = "https://www.instagram.com/iamjuniormateus/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa-brands fa-x-twitter fa-2x"
+    weight = 2
+    url = "https://x.com/iamjuniormateus"
+[[params.social]]
+    name = "Medium"
+    icon = "fa-brands fa-medium fa-2x"
+    weight = 3
+    url = "https://medium.com/@juniormateus/"
+[[params.social]]
+    name = "Youtube"
+    icon = "fa-brands fa-youtube fa-2x"
+    weight = 1
+    url = "https://www.youtube.com/@iamjuniormateus"
+
+# Menu links
+# [[menu.main]]
+#     name = "Blog"
+#     weight = 1
+#     url  = "posts/"
+#     [menu.main.params]
+#       icon = "fas fa-newspaper"
+[[menu.main]]
+    name = "About"
+    weight = 3
+    url = "about/"
+    [menu.main.params]
+    icon = "fas fa-user"
+
+[[menu.main]]
+    name = "Home"
+    weight = 1
+    url  = "/"
+    [menu.main.params]
+    icon = "fas fa-house-chimney-window"
+
+[[menu.main]]
+    name = "Posts"
+    weight = 2
+    url  = "/posts/"
+    [menu.main.params]
+    icon = "fas fa-file-alt"
+
+# [[menu.main]]
+#     name = "Projects"
+#     weight = 3
+#     url = "/projects/"
+#     [menu.main.params]
+#       icon = "far fa-code"
+
+# [[menu.main]]
+#     name = "Tags"
+#     weight = 4
+#     url = "/tags/"
+#     [menu.main.params]
+#       icon = "fas fa-tags"
+[[menu.main]]
+    name = " "
+    weight = 4
+    url = "https://www.youtube.com/@iamjuniormateus"
+    [menu.main.params]
+    icon = "fa-brands fa-youtube fa-1x"
+# [[menu.main]]
+#     name = " "
+#     weight = 5
+#     url = "https://github.com/juniormateus"
+#     [menu.main.params]
+#     icon = "fab fa-github"
+# [[menu.main]]
+#     name = " "
+#     weight = 6
+#     url = "https://medium.com/@juniormateus/"
+#     [menu.main.params]
+#     icon = "fa-brands fa-medium"

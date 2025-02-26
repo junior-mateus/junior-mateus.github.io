@@ -1,0 +1,62 @@
+/* Target navigation links */
+/* .navigation-link:hover i {
+    color: #A3FF00; 
+    transition: color 0.3s ease-in-out; 
+    } */
+
+
+.recent-posts {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top: 20px;
+    }
+    
+    .recent-posts h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    }
+    
+    .recent-posts ul {
+    list-style: none;
+    padding: 0;
+    display: block;
+    }
+    
+    .recent-posts li {
+    /* margin-bottom: 10px;
+    font-size: 1.1rem; */
+    margin-bottom: 12px; 
+    font-size: 1.2rem; 
+    display: block; 
+    text-align: left;
+    }
+    
+    .recent-posts a {
+    color: #A3FF00;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+    }
+    
+    .recent-posts a:hover {
+    text-decoration: underline;
+    }
+
+/* Make the avatar image circular */
+.avatar img {
+    width: 150px;  /* Adjust size if needed */
+    height: 150px; /* Ensures the aspect ratio remains square */
+    object-fit: cover;
+    border-radius: 50%; /* This makes the image a perfect circle */
+    display: block;
+    margin: 0 auto;
+    /* border: 3px solid #000000;  */
+    }
+
+  /* Ensure container is centered */
+.avatar {
+    text-align: center;
+    margin-bottom: 20px;
+    }
+
