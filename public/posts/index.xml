@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on junior mateus</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://www.juniormateus.com/posts/</link>
     <description>Recent content in Posts on junior mateus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Feb 2025 10:33:58 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.juniormateus.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Becoming a Hacker: My Cybersecurity Journey Begins</title>
-      <link>http://localhost:1313/posts/beginnings/</link>
+      <link>http://www.juniormateus.com/posts/beginnings/</link>
       <pubDate>Sun, 02 Feb 2025 10:33:58 -0500</pubDate>
-      <guid>http://localhost:1313/posts/beginnings/</guid>
+      <guid>http://www.juniormateus.com/posts/beginnings/</guid>
       <description>&lt;h2 id=&#34;how-it-all-started&#34;&gt;&#xA;  How It All Started&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#how-it-all-started&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Putting myself out there on the Internet is a huge step for me. Writing this already makes my heart beat faster. So, why am I doing this? Because “the best way to learn is to share with others” — I don’t know who said that, but I totally agree. I’ve been studying cybersecurity for 5 years. I started at 35. Until now, I haven’t really shared my journey. This brings me to why I’m starting this blog and YouTube channel.&lt;/p&gt;</description>
     </item>
   </channel>
