@@ -44,15 +44,15 @@
     }
 
 /* Make the avatar image circular */
-.avatar img {
-    width: 150px;  /* Adjust size if needed */
-    height: 150px; /* Ensures the aspect ratio remains square */
+/* .avatar img {
+    width: 150px; 
+    height: 150px; 
     object-fit: cover;
-    border-radius: 50%; /* This makes the image a perfect circle */
+    border-radius: 50%;
     display: block;
     margin: 0 auto;
-    /* border: 3px solid #000000;  */
-    }
+    /* border: 3px solid #000000;  
+    } */
 
   /* Ensure container is centered */
 .avatar {
